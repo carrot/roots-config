@@ -5,7 +5,7 @@ Roots     = require 'roots'
 
 compile_fixture = (fixture_name, done) ->
   @public = path.join(_path, fixture_name, 'public')
-  h.project.compile(Roots, fixture_name, -> done())
+  h.project.compile(Roots, fixture_name).then(-> done())
 
 before (done) ->
   h.project.install_dependencies('*', done)
