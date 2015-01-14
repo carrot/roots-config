@@ -8,8 +8,8 @@
   },
   "dependencies": {
     "lodash": "2.x",
-    "minimatch": "0.2.x",
-    "roots-util": "0.0.4"
+    "minimatch": "2.x",
+    "roots-util": "0.1.x"
   },
   "devDependencies": {
     "chai": "1.x",
