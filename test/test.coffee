@@ -8,7 +8,7 @@ compile_fixture = (fixture_name, done) ->
   h.project.compile(Roots, fixture_name).then(-> done())
 
 before (done) ->
-  h.project.install_dependencies('*', done)
+  h.project.install_dependencies('*').then(-> done())
 
 after ->
   h.project.remove_folders('**/public')
