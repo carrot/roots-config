@@ -3,7 +3,7 @@ Roots Config
 
 [![npm](https://badge.fury.io/js/roots-config.svg?style=flat)](http://badge.fury.io/js/roots-config) [![tests](http://img.shields.io/travis/carrot/roots-config/master.svg?style=flat)](https://travis-ci.org/carrot/roots-config) [![dependencies](http://img.shields.io/gemnasium/carrot/roots-config.svg?style=flat)](https://gemnasium.com/carrot/roots-config) [![Coverage Status](https://img.shields.io/coveralls/carrot/roots-config.svg?style=flat)](https://coveralls.io/r/carrot/roots-config?branch=master)
 
-Simple configuration shared through your html, css, and javascript.
+Simple configuration for roots, shared through your html, css, and javascript.
 
 > **Note:** This project is in early development, and versioning is a little different. [Read this](http://markup.im/#q4_cRZ1Q) for more details.
 
