@@ -1,6 +1,6 @@
 {
   "name": "roots-config",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Simple configuration shared through all parts of your roots project",
   "main": "lib",
   "directories": {
