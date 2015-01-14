@@ -3,14 +3,6 @@
   "version": "0.0.1",
   "description": "Simple configuration shared through all parts of your roots project",
   "main": "lib",
-  "directories": {
-    "test": "test"
-  },
-  "dependencies": {
-    "lodash": "2.x",
-    "minimatch": "2.x",
-    "roots-util": "0.1.x"
-  },
   "devDependencies": {
     "chai": "1.x",
     "chai-fs": "0.1.x",
@@ -18,7 +10,8 @@
     "coveralls": "2.x",
     "istanbul": "0.3.x",
     "mocha": "2.x",
-    "roots": "3.0.0-rc.11"
+    "roots": "3.0.0-rc.11",
+    "roots-util": "0.1.x"
   },
   "scripts": {
     "test": "mocha",
