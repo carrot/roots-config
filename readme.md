@@ -1,7 +1,7 @@
 Roots Config
 ============
 
-[![npm](https://badge.fury.io/js/roots-config.png)](http://badge.fury.io/js/roots-config) [![tests](https://travis-ci.org/carrot/roots-config.png?branch=master)](https://travis-ci.org/carrot/roots-config) [![dependencies](https://david-dm.org/carrot/roots-config.png?theme=shields.io)](https://david-dm.org/carrot/roots-config) [![Coverage Status](https://img.shields.io/coveralls/carrot/roots-config.svg)](https://coveralls.io/r/carrot/roots-config?branch=master)
+[![npm](https://badge.fury.io/js/roots-config.svg?style=flat)](http://badge.fury.io/js/roots-config) [![tests](http://img.shields.io/travis/carrot/roots-config/master.svg?style=flat)](https://travis-ci.org/carrot/roots-config) [![dependencies](http://img.shields.io/gemnasium/carrot/roots-config.svg?style=flat)](https://gemnasium.com/carrot/roots-config) [![Coverage Status](https://img.shields.io/coveralls/carrot/roots-config.svg?style=flat)](https://coveralls.io/r/carrot/roots-config?branch=master)
 
 Simple configuration shared through your html, css, and javascript.
 
